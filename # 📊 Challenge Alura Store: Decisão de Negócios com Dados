@@ -1,0 +1,87 @@
+# 📊 Challenge Alura Store: Decisão de Negócios com Dados
+
+Este projeto tem como objetivo auxiliar o Senhor João a tomar uma decisão estratégica: **qual loja vender**, com base na análise de dados de quatro lojas virtuais. Através da exploração de dados, criação de gráficos e interpretação dos resultados, foram avaliados aspectos essenciais como faturamento, avaliação de clientes, frete médio e desempenho dos produtos.
+
+---
+
+## 🧠 Perguntas Norteadoras
+
+Durante a análise, buscamos responder às seguintes perguntas:
+
+1. **Qual loja tem menor faturamento?**  
+   → A **Loja 4** possui o menor faturamento entre todas.
+
+2. **Qual loja tem pior avaliação?**  
+   → A **Loja 1** é a que apresenta a pior média de avaliações de clientes.
+
+3. **Quais os produtos que mais vendem?**  
+   → Os produtos mais vendidos variam entre as lojas, mas categorias como **beleza**, **moda** e **acessórios** costumam aparecer com maior frequência.
+
+4. **Quais os produtos que menos vendem?**  
+   → Os produtos menos vendidos são geralmente de **ticket mais alto** ou pertencem a categorias menos populares como **instrumentos musicais** ou **câmeras fotográficas**.
+
+---
+
+## 🛠️ Etapas do Projeto
+
+### 📍 Etapa 1: Análise Individual de Cada Loja
+- Cada loja foi analisada separadamente, observando:
+  - Faturamento
+  - Produtos e categorias mais e menos vendidos
+  - Avaliações dos clientes
+  - Frete médio
+
+### 📍 Etapa 2: Análise Comparativa Geral
+- Após as análises individuais, foi feita uma comparação geral entre as quatro lojas para entender:
+  - Qual se destaca em cada métrica
+  - Pontos fortes e fracos de cada uma
+  - Melhor relação custo-benefício para manter no negócio
+
+---
+
+## 📈 Visualizações Criadas
+
+Foram utilizados diferentes tipos de gráficos para facilitar a interpretação dos dados:
+
+- **Gráfico de barras**: Comparação do faturamento e frete médio entre lojas.
+- **Gráfico de pizza**: Distribuição de vendas por categoria.
+- **Gráfico de dispersão**: Relação entre avaliações e faturamento.
+
+---
+
+## 🧪 Habilidades Desenvolvidas
+
+Neste desafio, pratiquei e desenvolvi:
+
+- Criação e manipulação de **DataFrames com pandas**
+- Criação de **gráficos personalizados com Matplotlib**
+- Treinamento de **lógica de programação aplicada à análise de dados**
+- Organização de análises em etapas com foco em **tomada de decisão baseada em dados**
+
+---
+
+## ✅ Recomendação Final
+
+Com base em todos os dados analisados, a recomendação é que o Senhor João **venda a Loja 1**.  
+
+Apesar do alto faturamento, essa loja apresenta:
+- **A pior média de avaliação dos clientes**;
+- **O maior custo médio de frete**, o que reduz a margem de lucro;
+- **Dependência de poucos produtos mais vendidos**.
+
+As lojas 2, 3 e 4, por outro lado, apresentam **bom desempenho de vendas**, **avaliações positivas**, **custo de frete mais baixo** e **potencial de crescimento**. 
+
+---
+
+## 📎 Ferramentas Utilizadas
+
+- Google Colab (Python)
+- Pandas e Matplotlib
+- Visualizações com gráficos de barra, pizza e dispersão
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Vinícius** – Projeto baseado no Challenge da [Alura](https://www.alura.com.br/).
+
